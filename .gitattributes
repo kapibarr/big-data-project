@@ -1,0 +1,4 @@
+data/2020/Divvy_Trips_2020_full.csv.gz filter=lfs diff=lfs merge=lfs -text
+data/2021/Divvy_Trips_2021_full.csv.gz filter=lfs diff=lfs merge=lfs -text
+data/2022/Divvy_Trips_2022_full.csv.gz filter=lfs diff=lfs merge=lfs -text
+data/2023/Divvy_Trips_2023_full.csv.gz filter=lfs diff=lfs merge=lfs -text
