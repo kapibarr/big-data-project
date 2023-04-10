@@ -130,3 +130,8 @@ dmypy.json
 
 # .idea
 .idea/
+
+# Исключить большие файлы с данными
+data/2020/Divvy_Trips_2020_full.csv.gz
+data/2021/Divvy_Trips_2021_full.csv.gz
+data/2022/Divvy_Trips_2022_full.csv.gz
