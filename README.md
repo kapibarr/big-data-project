@@ -61,7 +61,7 @@
 
 <p>
   <img src="https://user-images.githubusercontent.com/78593359/233491427-a6211739-2db4-45cf-9608-98deb44e8613.png" width=20% align="left"/>
-<h3> Покрышкин Фёдор | Техлид | <a href="https://github.com/kapibarr">@kapibarr</a></h3>
+<h3> Фёдор Покрышкин  | Техлид | <a href="https://github.com/kapibarr">@kapibarr</a></h3>
   Ведение репозитория | Обработка данных | Расчет перемещения велосипедов
 </p>
 
