@@ -23,45 +23,11 @@
 * **Нанесение станций на карту Чикаго**
 * **Изучение маятниковости станций**: определение станций с маятниковой миграцией
 
-## Команда
-
-<p>
-  <img src="https://user-images.githubusercontent.com/78593359/233491427-a6211739-2db4-45cf-9608-98deb44e8613.png" width=15% align="left"/>
-<h3> Покрышкин Фёдор | Техлид | <a href="https://github.com/kapibarr">@kapibarr</a></h3>
-  Ведение репозитория | Обработка данных | Расчет перемещения велосипедов
-</p>
-
-
-<br clear="left"/>
-<br>
-
-<p>  
-  <img src="https://user-images.githubusercontent.com/78593359/233491501-b23f9af1-bb20-4b9a-9620-70aa32df8c34.png" width=15% align="left"/>
-  <h3> Ульяна Коровина | Аналитик | <a href="https://github.com/ivame"> @ivame</a> </h3>
-  Анализ сезонности | Презентация | Расчет окупаемости велосипеда
- </p>
-
-
-<br clear="left"/>
-<br>
-
-<p>  
-  <img src="https://user-images.githubusercontent.com/78593359/233491399-8d26dff9-233d-4d35-b324-8c278adbee59.png" width=15% align="left"/>
-  <h3> Нелли Мазитова | Аналитик | <a href="https://github.com/Nelli0412"> @Nelli0412</a></h3>
-  Расчет расходов | Нахождение количества подписчиков | Работа с картами
- </p>
-
-
-<br clear="left"/>
-<br>
- 
 ## Презентация 
  <p align="center">
     <img src="https://user-images.githubusercontent.com/78593359/233492556-6b673a66-b05f-4422-9f38-e6f0d09d7a0a.png" width=50%/>
  </p>
- 
-<br clear="left"/>
-<br>
+
 
  ## Датасет
  Описание датасета доступно в [README](https://github.com/kapibarr/big-data-project/blob/0cfbc8fe06632e00b75f7d15ebf167e70813e28d/data/2017/README.txt) по годам и на [официальном сайте](https://divvybikes.com/system-data)
@@ -89,3 +55,32 @@
  | `season_analysis.ipynb`               | Анализ сезонности поездок                                                                                                  | [Ссылка](https://github.com/kapibarr/big-data-project/blob/main/season_analysis.ipynb "season_analysis.ipynb")                             | 
  | `station_graphs.ipynb`                | Проверка идеи о том что между станциями с похожим типом ID больше связей на графах                                         | [Ссылка](https://github.com/kapibarr/big-data-project/blob/main/station_graphs.ipynb "station_graphs.ipynb")                               | 
  | `stations_statistic.ipynb`            | Статистика по станциям: абсолютная/средняя вместимость, количество                                                         | [Ссылка](https://github.com/kapibarr/big-data-project/blob/main/stations_statistic.ipynb "stations_statistic.ipynb")                                                                                                                                           |     |
+
+
+## Команда
+
+<p>
+  <img src="https://user-images.githubusercontent.com/78593359/233491427-a6211739-2db4-45cf-9608-98deb44e8613.png" width=20% align="left"/>
+<h3> Покрышкин Фёдор | Техлид | <a href="https://github.com/kapibarr">@kapibarr</a></h3>
+  Ведение репозитория | Обработка данных | Расчет перемещения велосипедов
+</p>
+
+
+<br clear="left"/>
+<br>
+
+<p>  
+  <img src="https://user-images.githubusercontent.com/78593359/233491501-b23f9af1-bb20-4b9a-9620-70aa32df8c34.png" width=20% align="left"/>
+  <h3> Ульяна Коровина | Аналитик | <a href="https://github.com/ivame"> @ivame</a> </h3>
+  Анализ сезонности | Презентация | Расчет окупаемости велосипеда
+ </p>
+
+
+<br clear="left"/>
+<br>
+
+<p>  
+  <img src="https://user-images.githubusercontent.com/78593359/233491399-8d26dff9-233d-4d35-b324-8c278adbee59.png" width=20% align="left"/>
+  <h3> Нелли Мазитова | Аналитик | <a href="https://github.com/Nelli0412"> @Nelli0412</a></h3>
+  Расчет расходов | Нахождение количества подписчиков | Работа с картами
+ </p>
