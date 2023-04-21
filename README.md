@@ -25,9 +25,8 @@
 
 ## Презентация 
  <p align="center">
-    <img src="https://user-images.githubusercontent.com/78593359/233492556-6b673a66-b05f-4422-9f38-e6f0d09d7a0a.png" width=50%/>
+    <img src="https://user-images.githubusercontent.com/78593359/233707041-131a39ef-56d3-47d7-8a96-5f07a554c96e.png" width=50%/>
  </p>
-
 
  ## Датасет
  Описание датасета доступно в [README](https://github.com/kapibarr/big-data-project/blob/0cfbc8fe06632e00b75f7d15ebf167e70813e28d/data/2017/README.txt) по годам и на [официальном сайте](https://divvybikes.com/system-data)
@@ -35,26 +34,31 @@
 
  
  ## Описание файлов
- | Название файла                        | Описание                                                                                                                   | Ссылки                                                                                                                                    |
+ | Название файла                        | Описание                                                                                                                   | Ссылки                                                                                                                                     |
  | ------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
  | `2013-2023_3_months.ipynb`            | Сравнение первых трех месяцев 2023 с остальными годами                                                                     | [Ссылка](https://github.com/kapibarr/big-data-project/blob/main/2013-2023_3_months.ipynb)                                                  |
  | `amount_of_rides_per_year.ipynb`      | Подсчет количества поездок по годам                                                                                        | [Ссылка](https://github.com/kapibarr/big-data-project/blob/main/amount_of_rides_per_year.ipynb "amount_of_rides_per_year.ipynb")           |
  | `basic_statistic.ipynb`               | Базовые расчеты: распределение member/casual, поездок по месяцам/дням недели/времени суток/типу велосипеда/длительности... | [Ссылка](https://github.com/kapibarr/big-data-project/blob/main/basic_statistic.ipynb "basic_statistic.ipynb")                             |
  | `bicycle_losses.ipynb`                | Подсчет количества потерянных велосипедов                                                                                  | [Ссылка](https://github.com/kapibarr/big-data-project/blob/main/bicycle_losses.ipynb "bicycle_losses.ipynb")                               |
  | `circularity_stations_analysis.ipynb` | Нахождение станций с маятниковой миграцией                                                                                 | [Ссылка](https://github.com/kapibarr/big-data-project/blob/main/circularity_stations_analysis.ipynb "circularity_stations_analysis.ipynb") |
+ | `costs_count.ipynb`                   | Оценка расходов                                                                                                            | [Ссылка](https://github.com/kapibarr/big-data-project/blob/main/costs_count.ipynb "costs_count.ipynb")                                     |
  | `distance_between_stations.ipynb`     | Расчет прямого расстояния между станциями                                                                                  | [Ссылка](https://github.com/kapibarr/big-data-project/blob/main/distance_between_stations.ipynb "distance_between_stations.ipynb")         |
  | `distance_per_bike.ipynb`             | Анализ расстояния пройденного велосипедами: сколько проезжает за год/все время + срок службы                               | [Ссылка](https://github.com/kapibarr/big-data-project/blob/main/distance_per_bike.ipynb "distance_per_bike.ipynb")                         |
  | `full_price_calculation.ipynb`        | Подсчет доходов                                                                                                            | [Ссылка](https://github.com/kapibarr/big-data-project/blob/main/full_price_calculation.ipynb "full_price_calculation.ipynb")               |
  | `gender-age.ipynb`                    | Анализ распределения по полу/возрасту                                                                                      | [Ссылка](https://github.com/kapibarr/big-data-project/blob/main/gender-age.ipynb "gender-age.ipynb")                                       |
  | `getting_big_tables.ipynb`            | Получение полных дататсетов из скачанных данных                                                                            | [Ссылка](https://github.com/kapibarr/big-data-project/blob/main/getting_big_tables.ipynb "getting_big_tables.ipynb")                       |
  | `load_model.ipynb`                    | Анализ нагрузки: количество велосипедов нужное для покрытия спроса по сезонам/нахождение самых загруженных станций         | [Ссылка](https://github.com/kapibarr/big-data-project/blob/main/load_model.ipynb "load_model.ipynb")                                       |
- | `map_station.ipynb`                   | Распределение станций по карте                                                                                             | [Ссылка](https://nbviewer.org/github/kapibarr/big-data-project/blob/59150fb95499eb7562cfbd66facf908c8ce1ce53/map_station.ipynb)            | 
- | `members_procent_circularity.ipynb`   | Получение оценки количества подписчиков сверху (по станциям с маятниковой миграцией)                                       | [Ссылка](https://github.com/kapibarr/big-data-project/blob/main/members_procent_circularity.ipynb "members_procent_circularity.ipynb")     | 
- | `moving_bikes_model.ipynb`            | Расчет оптимального перемещения велосипедов к перегруженным станциям                                                       | [Ссылка](https://github.com/kapibarr/big-data-project/blob/main/moving_bikes_model.ipynb "moving_bikes_model.ipynb")                       | 
+ | `map_station.ipynb`                   | Распределение станций по карте                                                                                             | [Ссылка](https://nbviewer.org/github/kapibarr/big-data-project/blob/59150fb95499eb7562cfbd66facf908c8ce1ce53/map_station.ipynb)            |
+ | `members_procent_circularity.ipynb`   | Получение оценки количества подписчиков сверху (по станциям с маятниковой миграцией)                                       | [Ссылка](https://github.com/kapibarr/big-data-project/blob/main/members_procent_circularity.ipynb "members_procent_circularity.ipynb")     |
+ | `minute_2022.ipynb`                   | Оценка стоимости минуты проезда в 2022                                                                                     | [Ссылка](https://github.com/kapibarr/big-data-project/blob/main/minute_2022.ipynb "minute_2022.ipynb")                                     |
+ | `moving_bikes_model.ipynb`            | Расчет оптимального перемещения велосипедов к перегруженным станциям                                                       | [Ссылка](https://github.com/kapibarr/big-data-project/blob/main/moving_bikes_model.ipynb "moving_bikes_model.ipynb")                       |
  | `park_station.ipynb`                  | Получение оценки количества подписчиков снизу (по парковым станциям)                                                       | [Ссылка](https://github.com/kapibarr/big-data-project/blob/main/park_station.ipynb "park_station.ipynb")                                   |
- | `season_analysis.ipynb`               | Анализ сезонности поездок                                                                                                  | [Ссылка](https://github.com/kapibarr/big-data-project/blob/main/season_analysis.ipynb "season_analysis.ipynb")                             | 
- | `station_graphs.ipynb`                | Проверка идеи о том что между станциями с похожим типом ID больше связей на графах                                         | [Ссылка](https://github.com/kapibarr/big-data-project/blob/main/station_graphs.ipynb "station_graphs.ipynb")                               | 
- | `stations_statistic.ipynb`            | Статистика по станциям: абсолютная/средняя вместимость, количество                                                         | [Ссылка](https://github.com/kapibarr/big-data-project/blob/main/stations_statistic.ipynb "stations_statistic.ipynb")                                                                                                                                           |     |
+ | `season_analysis.ipynb`               | Анализ сезонности поездок                                                                                                  | [Ссылка](https://github.com/kapibarr/big-data-project/blob/main/season_analysis.ipynb "season_analysis.ipynb")                             |
+ | `station_graphs.ipynb`                | Проверка идеи о том что между станциями с похожим типом ID больше связей на графах                                         | [Ссылка](https://github.com/kapibarr/big-data-project/blob/main/station_graphs.ipynb "station_graphs.ipynb")                               |
+ | `stations_statistic.ipynb`            | Статистика по станциям: абсолютная/средняя вместимость, количество                                                         | [Ссылка](https://github.com/kapibarr/big-data-project/blob/main/stations_statistic.ipynb "stations_statistic.ipynb")                       |
+
+
+
 
 
 ## Команда
