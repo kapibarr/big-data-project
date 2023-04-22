@@ -25,7 +25,7 @@
 
 ## Презентация 
  <p align="center">
-    <img src="https://user-images.githubusercontent.com/78593359/233707041-131a39ef-56d3-47d7-8a96-5f07a554c96e.png" width=50%/>
+    <a href="https://disk.yandex.ru/d/Nz5nRckohTuKRg"><img src="https://user-images.githubusercontent.com/78593359/233707041-131a39ef-56d3-47d7-8a96-5f07a554c96e.png" width=50%/></a>
  </p>
 
  ## Датасет
